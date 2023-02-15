@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AutomationTestingUsingSelenium.iml" filepath="$PROJECT_DIR$/AutomationTestingUsingSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutomationTestingUsingSelenium.iml" filepath="$PROJECT_DIR$/.idea/AutomationTestingUsingSelenium.iml" />
     </modules>
   </component>
 </project>
