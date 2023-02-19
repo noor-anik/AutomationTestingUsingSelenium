@@ -9,13 +9,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtentReports/AutomationResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReports/AutomationResult.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/context/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/context/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/context/WebDriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/context/WebDriverContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/factory/PageinstancesFactory.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/listeners/LogListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/listeners/LogListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/listeners/ReportListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/listeners/ReportListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/report/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/report/ExtentReportManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/tests/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/tests/SwaglabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/tests/SwaglabTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/example/example/util/LoggerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/util/LoggerUtil.java" afterDir="false" />
