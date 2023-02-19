@@ -1,16 +1,8 @@
 package example.example.tests;
-
-import example.example.factory.PageinstancesFactory;
-import example.example.pages.FacebookLoginPage;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-/**
- * The Class FaceBookLoginTest.
- *
- * @author Bharathish
- */
 @Test(testName = "Facebook login test", description = "Facebook login test")
 public class SwaglabTest extends BaseTest {
 

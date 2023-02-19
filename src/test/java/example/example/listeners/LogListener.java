@@ -6,34 +6,14 @@ import org.testng.ITestResult;
 
 import example.example.util.LoggerUtil;
 
-/**
- * The listener interface for receiving log events. The class that is interested
- * in processing a log event implements this interface, and the object created
- * with that class is registered with a component using the component's
- * <code>addLogListener<code> method. When the log event occurs, that object's
- * appropriate method is invoked.
- *
- * @see LogEvent
- */
+
 public class LogListener implements ITestListener {
 
-	/**
-	 * Gets the test name.
-	 *
-	 * @param result the result
-	 * @return the test name
-	 */
 	public String getTestName(ITestResult result) {
 		return result.getTestName() != null ? result.getTestName()
 				: result.getMethod().getConstructorOrMethod().getName();
 	}
-
-	/**
-	 * Gets the test description.
-	 *
-	 * @param result the result
-	 * @return the test description
-	 */
+	
 	public String getTestDescription(ITestResult result) {
 		return result.getMethod().getDescription() != null ? result.getMethod().getDescription() : getTestName(result);
 	}

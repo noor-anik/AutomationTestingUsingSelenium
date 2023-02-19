@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7eaf92-4646-4374-a81f-b8a80e2b2f9d" name="Changes" comment="" />
+    <list default="true" id="ea7eaf92-4646-4374-a81f-b8a80e2b2f9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtentReports/AutomationResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReports/AutomationResult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/context/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/context/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/context/WebDriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/context/WebDriverContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/factory/PageinstancesFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/listeners/LogListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/listeners/LogListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/listeners/ReportListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/listeners/ReportListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/report/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/report/ExtentReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/tests/SwaglabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/tests/SwaglabTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/util/LoggerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/util/LoggerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/util/MailUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/example/util/TestProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/example/util/TestProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,7 +58,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/noorh/Downloads/selenium-testng-framework-master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/CSE/VV/AutomationTestingUsingSelenium",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
