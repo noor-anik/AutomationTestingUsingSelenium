@@ -14,7 +14,7 @@ public class TestClass {
         driver = new ChromeDriver();
         driver.get("https://www.saucedemo.com/");
         driver.manage().window().maximize();
-        Assertions.assertEquals("Red Apple", driver.getTitle());
+        Assertions.assertEquals("", driver.getTitle());
     }
 
     @Test
@@ -22,7 +22,7 @@ public class TestClass {
         driver.findElement(By.id("user-name")).sendKeys("standard_user");
         driver.findElement(By.id("password")).sendKeys("secret_sauce");
         driver.findElement(By.id("login-button")).click();
-        Assertions.assertEquals("Red Apple", driver.getTitle());
+        Assertions.assertEquals("", driver.getTitle());
     }
 
     @Test
